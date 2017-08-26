@@ -81,7 +81,6 @@ public class BeersFragment extends Fragment {
                 Location location = locations.get(i);
 
                 Intent intent = new Intent(Intent.ACTION_VIEW);
-                //TODO include geo locations in Location object
                 Uri latLong = Uri.parse(getString(location.getGeoLocation()));
                 intent.setData(latLong);
                 if (intent.resolveActivity(getActivity().getPackageManager()) != null) {

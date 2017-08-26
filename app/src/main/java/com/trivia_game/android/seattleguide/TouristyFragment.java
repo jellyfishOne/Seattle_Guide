@@ -30,8 +30,6 @@ public class TouristyFragment extends Fragment {
 
         //Create a list of Locations
         final ArrayList<Location> locations = new ArrayList<Location>();
-
-        //TODO add more locations
         locations.add(new Location(R.string.Space_name,R.string.Space_address,
                 R.string.Space_phone,R.string.Space_geo));
         locations.add(new Location(R.string.Experience_name,R.string.Experience_address,

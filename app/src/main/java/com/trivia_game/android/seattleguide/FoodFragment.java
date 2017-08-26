@@ -31,7 +31,6 @@ public class FoodFragment extends Fragment {
 
         //Create a list of Locations
         final ArrayList<Location> locations = new ArrayList<Location>();
-        //TODO add more locations
         locations.add(new Location(R.string.Wataru_name,R.string.Wataru_address,
                 R.string.Wataru_phone,R.string.Wataru_geo));
         locations.add(new Location(R.string.Wandering_name,R.string.Wandering_address,
@@ -77,7 +76,6 @@ public class FoodFragment extends Fragment {
                 Location location = locations.get(i);
 
                 Intent intent = new Intent(Intent.ACTION_VIEW);
-                //TODO include geo locations in Location object
                 Uri latLong = Uri.parse(getString(location.getGeoLocation()));
                 intent.setData(latLong);
                 if (intent.resolveActivity(getActivity().getPackageManager()) != null) {

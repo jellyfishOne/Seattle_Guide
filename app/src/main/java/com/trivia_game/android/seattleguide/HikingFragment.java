@@ -31,8 +31,6 @@ public class HikingFragment extends Fragment {
 
         //Create a list of Locations
         final ArrayList<Location> locations = new ArrayList<Location>();
-
-        //TODO add more locations
         locations.add(new Location(R.string.Rattlesnake_name,R.string.Rattlesnake_address,
                 R.string.Rattlesnake_phone,R.string.Rattlesnake_geo));
         locations.add(new Location(R.string.Little_name,R.string.Little_address,
@@ -77,7 +75,6 @@ public class HikingFragment extends Fragment {
                 Location location = locations.get(i);
 
                 Intent intent = new Intent(Intent.ACTION_VIEW);
-                //TODO include geo locations in Location object
                 Uri latLong = Uri.parse(getString(location.getGeoLocation()));
                 intent.setData(latLong);
                 if (intent.resolveActivity(getActivity().getPackageManager()) != null) {
