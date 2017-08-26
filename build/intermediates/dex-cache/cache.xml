@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/JuanRenteria/.android/build-cache/7fcdc43fccafba821c1c17d52b84c31d56c0dfac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/JuanRenteria/AndroidStudioProjects/SeattleGuide/app/build/intermediates/pre-dexed/debug/classes_dcdcaf3e462cd7f08007cdd2c0706fec8f4682d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JuanRenteria/.android/build-cache/3d36a09e62f32869ec6dff4af1dc70d01f739985/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/JuanRenteria/AndroidStudioProjects/SeattleGuide/app/build/intermediates/pre-dexed/debug/classes_2de45150c5558ad3c9242663b6d638fa0232e3f4.jar" />
+    </item>
+
+</items>
