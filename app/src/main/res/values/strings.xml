@@ -30,7 +30,7 @@
     <string name="Fremont_address">1050 N 34th St.\nSeattle, WA 98103</string>
     <string name="Fremont_phone">(206) 420-2407</string>
     <string name="Fremont_geo" formatted="false">geo:0,0?q=Fremont+Brewing+1050+N+34th+St%2C+Seattle%2C+WA+98103</string>
-    
+
     <string name="Standard_name">Standard Brewing</string>
     <string name="Standard_address">2504 S Jackson St.\nSeattle, WA 98144</string>
     <string name="Standard_phone">(206) 535-1584</string>
@@ -234,7 +234,4 @@
     <string name="Chihuly_phone">(206) 753-4940</string>
     <string name="Chihuly_geo" formatted="false">geo:0,0?q=Chihuly+Garden+and+Glass+305+Harrison+St+Seattle%2C+WA+98109</string>
 
-
-    <!-- TODO delete -->
-    <string name="hello_blank_fragment">Hello</string>
 </resources>
