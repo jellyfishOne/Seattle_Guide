@@ -1,0 +1,240 @@
+<resources>
+    <string name="app_name">Seattle Guide</string>
+    <string name="category_food">FOOD</string>
+    <string name="category_attractions">TOURISTY</string>
+    <string name="category_beers">BEER</string>
+    <string name="category_hiking">HIKING</string>
+
+    <!-- srings for Beer Locations -->
+    <string name="Optimism_name">Optimism Brewing Company</string>
+    <string name="Optimism_address">1158 BroadWay\nSeattle, WA 98122</string>
+    <string name="Optimism_phone">(206) 651-5429</string>
+    <string name="Optimism_geo" formatted="false">geo:0,0?q=Optimism+1158+Broadway%2C+Seattle%2CWA%2C98122</string>
+
+    <string name="Elysian_name">Elysian Capitol Hill Brewery</string>
+    <string name="Elysian_address">1221 E Pike St.\nSeattle, WA 98122</string>
+    <string name="Elysian_phone">(206) 906-9148</string>
+    <string name="Elysian_geo" formatted="false">geo:0,0?q=Elysian+1221+E+Pike+St%2C+Seattle%2CWA%2C98122</string>
+
+    <string name="Pike_name">The Pike Brewing Company</string>
+    <string name="Pike_address">1415 1st Ave\nSeattle, WA 98101</string>
+    <string name="Pike_phone">(206) 622-6044</string>
+    <string name="Pike_geo" formatted="false">geo:0,0?q=Pike+Brewing+1415+1st+Ave%2C+Seattle%2CWA+98101</string>
+
+    <string name="TwoBeers_name">Two Beers Brewing Co.</string>
+    <string name="TwoBeers_address">4700 Ohio Ave S\nSeattle, WA 98134</string>
+    <string name="TwoBeers_phone">(206) 762-0490</string>
+    <string name="TwoBeers_geo" formatted="false">geo:0,0?q=Two+Beers+4700+Ohio+Ave+S%2C+Seattle%2C+WA+98134</string>
+
+    <string name="Fremont_name">Fremont Brewing Company</string>
+    <string name="Fremont_address">1050 N 34th St.\nSeattle, WA 98103</string>
+    <string name="Fremont_phone">(206) 420-2407</string>
+    <string name="Fremont_geo" formatted="false">geo:0,0?q=Fremont+Brewing+1050+N+34th+St%2C+Seattle%2C+WA+98103</string>
+    
+    <string name="Standard_name">Standard Brewing</string>
+    <string name="Standard_address">2504 S Jackson St.\nSeattle, WA 98144</string>
+    <string name="Standard_phone">(206) 535-1584</string>
+    <string name="Standard_geo" formatted="false">geo:0,0?q=Standard+Brewing+2504+S+Jackson+St%2C+Seattle%2C+WA+98144</string>
+
+    <string name="Cloud_name">Cloudburst Brewing</string>
+    <string name="Cloud_address">2116 Western Ave.\nSeattle, WA 98121</string>
+    <string name="Cloud_phone">(206) 602-6061</string>
+    <string name="Cloud_geo" formatted="false">geo:0,0?q=Cloudburst+2116+Western+Ave%2C+Seattle%2C+WA+98121</string>
+
+    <string name="George_name">Georgetown Brewing Co</string>
+    <string name="George_address">5200 Denver Ave S\nSeattle, WA 98108</string>
+    <string name="George_phone">(206) 766-8055</string>
+    <string name="George_geo" formatted="false">geo:0,0?q=Georgetown+5200+Denver+Ave+S%2E+Seattle%2C+WA+98108</string>
+
+    <string name="OldStove_name">Old Stove Brewing</string>
+    <string name="OldStove_address">1525 1st Ave 16\nSeattle, WA 98101</string>
+    <string name="OldStove_phone">(206) 829-4800</string>
+    <string name="OldStove_geo" formatted="false">geo:0,0?q=Old+Stove+1525+1st+Ave+16%2C+Seattle%2C+WA+98101</string>
+
+    <string name="Roof_name">Rooftop Brewing Company</string>
+    <string name="Roof_address">1220 W Nickerson St\nSeattle, WA 98119</string>
+    <string name="Roof_phone">(206) 457-8598</string>
+    <string name="Roof_geo" formatted="false">geo:0,0?q=Rooftop+Brewing+1220+W+Nickerson+St%2C+Seattle%2C+WA+98119</string>
+
+    <string name="Bad_name">Bad Jimmy\'s Brewing Co.</string>
+    <string name="Bad_address">B, 4358 Leary Way NW\nSeattle, WA 98107</string>
+    <string name="Bad_phone">(206) 789-1548</string>
+    <string name="Bad_geo" formatted="false">geo:0,0?q=Bad+B%2C+4358+Leary+Way+NW%2CSeattle%2C+WA+98107</string>
+
+    <string name="Holy_name">Holy Mountain Brewing Company</string>
+    <string name="Holy_address">1421 Elliot Ave W\nSeattle, WA 98119</string>
+    <string name="Holy_phone"></string>
+    <string name="Holy_geo" formatted="false">geo:0,0?q=Holy+Mountain+1421+Elliot+Ave+W%2C+Seattle%2C+WA+98119</string>
+
+    <string name="Outer_name">Outer Planet Craft Brewing</string>
+    <string name="Outer_address">1812 12th Ave #100\nSeattle, WA 98122</string>
+    <string name="Outer_phone">(206) 763-700</string>
+    <string name="Outer_geo" formatted="false">geo:0,0?q=Outer+Planet+1812+12th+Ave+100%2C+Seattle%2C+WA+98122</string>
+
+    <string name="Outlander_name">Outlander Brewery and Pub</string>
+    <string name="Outlander_address">225 N 36th St\nSeattle, WA 98103</string>
+    <string name="Outlander_phone">(206) 486-4088</string>
+    <string name="Outlander_geo" formatted="false">geo:0,0?q=Outlander+225+N+36th+St%2C+Seattle%2C+WA+98103</string>
+
+    <!-- srings for Food Locations -->
+    <string name="Wataru_name">Wataru</string>
+    <string name="Wataru_address">2400 NE 65th St\nSeattle,WA 98115</string>
+    <string name="Wataru_phone">(206) 525-2073</string>
+    <string name="Wataru_geo" formatted="false">geo:0,0?q=Wataru+2400+NE+65th+St+Seattle%2CWA+98115</string>
+
+    <string name="Wandering_name">The Wandering Goose</string>
+    <string name="Wandering_address">403 15th Ave E\nSeattle,WA 98112</string>
+    <string name="Wandering_phone">(206) 323-9938</string>
+    <string name="Wandering_geo" formatted="false">geo:0,0?q=The+Wandering+Goose+403+15th+Ave+E+Seattle%2CWA+98112</string>
+
+    <string name="Kedai_name">Kedai Makan</string>
+    <string name="Kedai_address">1802 Bellevue Ave\nSeattle, WA 98122</string>
+    <string name="Kedai_phone">(206) 555-5555</string>
+    <string name="Kedai_geo" formatted="false">geo:0,0?q=Kedai+1802+Bellevue+Ave+Seattle%2C+WA+98122</string>
+
+    <string name="State_name">Stateside</string>
+    <string name="State_address">300 E Pike St\nSeattle, WA 98122</string>
+    <string name="State_phone">(206) 557-7273</string>
+    <string name="State_geo" formatted="false">geo:0,0?q=Stateside+300+E+Pike+St+Seattle%2C+WA+98122</string>
+
+    <string name="Matts_name">Matt\'s in the Market</string>
+    <string name="Matts_address">94 Pike St\nSeattle, WA 98101</string>
+    <string name="Matts_phone">Matt\'s in the Market</string>
+    <string name="Matts_geo" formatted="false">geo:0,0?q=Matt%27s+94+Pike+St+Seattle%2CWA+98101</string>
+
+    <string name="Tsukushinbo_name">Tsukushinbo</string>
+    <string name="Tsukushinbo_address">515 S Main St\nSeattle, WA 98104</string>
+    <string name="Tsukushinbo_phone">(206) 467-4004</string>
+    <string name="Tsukushinbo_geo" formatted="false">geo:0,0?q=Tsukushinbo+515+S+Main+St+Seattle%2CWA+98104</string>
+
+    <string name="Beecher_name">Beecher\'s Handmade Cheese</string>
+    <string name="Beecher_address">1600 Pike Pl\nSeattle, WA 98101</string>
+    <string name="Beecher_phone">(206) 956-1964</string>
+    <string name="Beecher_geo" formatted="false">geo:0,0?q=Beecher%27s+1600+Pike+Pl+Seattle%2C+WA+98101</string>
+
+    <string name="Salumi_name">Salumi</string>
+    <string name="Salumi_address">309 3rd Ave S\nSeattle, WA 98104</string>
+    <string name="Salumi_phone">(206) 621-8772</string>
+    <string name="Salumi_geo" formatted="false">geo:0,0?q=Salumi+309+3rd+Ave+S+Seattle%2C+WA+98104</string>
+
+    <string name="PikeChowder_name">Pike Place Chowder</string>
+    <string name="PikeChowder_address">1530 Post Alley\nSeattle, WA 98101</string>
+    <string name="PikeChowder_phone">(206) 267-2537</string>
+    <string name="PikeChowder_geo" formatted="false">geo:0,0?q=Pike+Place+Chowder+1530+Post+Alley+Seattle%2CWA+98101</string>
+
+    <string name="CatFish_name">Jackson\'s Catfish Corner</string>
+    <string name="CatFish_address">123 21st Ave\nSeattle, WA 98122</string>
+    <string name="CatFish_phone">(206) 323-4330</string>
+    <string name="CatFish_geo" formatted="false">geo:0,0?q=Jackson%27s+123+21st+Ave+Seattle%2C+WA+98122</string>
+
+    <string name="Alibi_name">Alibi Room</string>
+    <string name="Alibi_address">85 Pike St\nSeattle, WA 98101</string>
+    <string name="Alibi_phone">(206) 623-3180</string>
+    <string name="Alibi_geo" formatted="false">geo:0,0?q=Alibi+85+Pike+St+Seattle%2C+WA+98101</string>
+
+    <!-- srings for Hiking Locations -->
+    <string name="Rattlesnake_name">Rattlesnake Ledge (Snoqualmie Pass)</string>
+    <string name="Rattlesnake_address">Rattlesnake Ridge\n Washington 98045</string>
+    <string name="Rattlesnake_phone"></string>
+    <string name="Rattlesnake_geo" formatted="false">geo:0,0?q=Rattlesnake+Ridge+Washington+98045</string>
+
+    <string name="Little_name">Little Si and Mount Si (Snoqualmie Pass)</string>
+    <string name="Little_address">Little Si\nWashington 98045 </string>
+    <string name="Little_phone"></string>
+    <string name="Little_geo" formatted="false">geo:0,0?q=Little+Si+Washington+98045</string>
+
+    <string name="Pilchuck_name">Mt. Pilchuck (Mountain Loop Highway)</string>
+    <string name="Pilchuck_address">Mt Pilchuck\nWashington 98252</string>
+    <string name="Pilchuck_phone"></string>
+    <string name="Pilchuck_geo" formatted="false">geo:0,0?q=Mt+Pilchuck+Washington+98252</string>
+
+    <string name="Ebey_name">Ebey\'s Landing (Whidbey Island)</string>
+    <string name="Ebey_address">162 Cenetery Rd\nCoupeville, WA 98239</string>
+    <string name="Ebey_phone">(306) 678-6084</string>
+    <string name="Ebey_geo" formatted="false">geo:0,0?q=Ebey%27s+162+Cenetery+Rd%2C+Coupeville%2C+WA+98239</string>
+
+    <string name="Summerland_name">Summerland (Mt. Rainier National Park)</string>
+    <string name="Summerland_address">Summerland Trainl\nAshford, WA 98304</string>
+    <string name="Summerland_phone"></string>
+    <string name="Summerland_geo" formatted="false">geo:0,0?q=Summerland+Trainl+Ashford%2C+WA+98304</string>
+
+    <string name="Chain_name">Chain Lakes Loop (Mt. Baker)</string>
+    <string name="Chain_address">Chain Lakes\nWashington 98224</string>
+    <string name="Chain_phone"></string>
+    <string name="Chain_geo" formatted="false">geo:0,0?q=Chain+Lakes+Washington+98224</string>
+
+    <string name="Dungeness_name">Dungeness Spit (Olympic Peninsula)</string>
+    <string name="Dungeness_address">Dungeness Spit\nWashington 98382</string>
+    <string name="Dungeness_phone"></string>
+    <string name="Dungeness_geo" formatted="false">geo:0,0?q=Dungeness+Spit+Washington+98382</string>
+
+    <string name="Kendall_name">Kendall Katwalk (Snoqualmie Pass)</string>
+    <string name="Kendall_address">Pacific Crest Trail\nNorth Bend, WA 98045</string>
+    <string name="Kendall_phone"></string>
+    <string name="Kendall_geo" formatted="false">geo:0,0?q=Kendall+Katwalk+Pacific+Crest+Trail+North+Bend+WA+98045</string>
+
+    <string name="Maple_name">Maple Pass Loop (North Cascades)</string>
+    <string name="Maple_address">Maple Pass\nWashington</string>
+    <string name="Maple_phone"></string>
+    <string name="Maple_geo" formatted="false">geo:0,0?q=Maple+Pass+Washington</string>
+
+    <string name="Enchantments_name">The Enchantments Traverse </string>
+    <string name="Enchantments_address">NF-7601\nLeavenworth, WA 98826</string>
+    <string name="Enchantments_phone"></string>
+    <string name="Enchantments_geo" formatted="false">geo:0,0?q=The+Enchantments+Traverse+NF+7601+Leavenworth%2C+WA+98826</string>
+
+    <!-- srings for Touristy Locations -->
+    <string name="Space_name">Space Needle</string>
+    <string name="Space_address">400 Broad St\nSeattle, WA 98109</string>
+    <string name="Space_phone">(206) 905-2100</string>
+    <string name="Space_geo" formatted="false">geo:0,0?q=Space+Needle+400+Broad+St+Seattle%2C+WA+98109</string>
+
+    <string name="Experience_name">Experience Music Project Museum</string>
+    <string name="Experience_address">325 5th Ave N\nSeattle, WA 98109</string>
+    <string name="Experience_phone">(206) 770-2700</string>
+    <string name="Experience_geo" formatted="false">geo:0,0?q=Experience+Music+Project+Museum+325+5th+Ave+Seattle%2CWA+98109</string>
+
+    <string name="PikeMarket_name">Pike Place Market</string>
+    <string name="PikeMarket_address">Pike Place Markte\nSeattle, WAshington</string>
+    <string name="PikeMarket_phone"></string>
+    <string name="PikeMarket_geo" formatted="false">geo:0,0?q=Pike+Place+Markte+Seattle%2C+WAshington</string>
+
+    <string name="GasWorks_name">Gas Works Park</string>
+    <string name="GasWorks_address">2101 N Northlake Way\nSeattle, WA</string>
+    <string name="GasWorks_phone">(206) 684-4075</string>
+    <string name="GasWorks_geo" formatted="false">geo:0,0?q=Gas Works+Park+2101+N+Northlake+Way+Seattle%2C+WA</string>
+
+    <string name="Olympic_name">Olympic Sculpture Park</string>
+    <string name="Olympic_address">2901 Western Ave\nSeattle, WA 98121</string>
+    <string name="Olympic_phone">(206) 654-3100</string>
+    <string name="Olympic_geo" formatted="false">geo:0,0?q=Olympic+Sculpture+Park+2901+Western+Ave+Seattle%2C+WA+98121</string>
+
+    <string name="Aquarium_name">Seattle Aquarium</string>
+    <string name="Aquarium_address">1483 Alaskan Way\nSeattle, WA 98101</string>
+    <string name="Aquarium_phone">(206) 386-4300</string>
+    <string name="Aquarium_geo" formatted="false">geo:0,0?q=Seattle+Aquarium+1483+Alaskan+Way+Seattle%2C+WA+98101</string>
+
+    <string name="Zoo_name">Woodland Park Zoo</string>
+    <string name="Zoo_address">5500 Phinney Ave N\nSeattle, WA 98103</string>
+    <string name="Zoo_phone">(206) 548-2500</string>
+    <string name="Zoo_geo" formatted="false">geo:0,0?q=Woodland+Park+Zoo+5500+Phinney+Ave+N+Seattle%2C+WA+98103</string>
+
+    <string name="Gum_name">Gum Wall</string>
+    <string name="Gum_address">1428 Post Alley\nSeattle, WA 98101</string>
+    <string name="Gum_phone"></string>
+    <string name="Gum_geo" formatted="false">geo:0,0?q=Gum+Wall+1428+Post+Alley+Seattle%2C+WA+98101</string>
+
+    <string name="Kerry_name">Kerry Park</string>
+    <string name="Kerry_address">211 W Highland Dr\nSeattle, WA 98119</string>
+    <string name="Kerry_phone">(206) 684-4075</string>
+    <string name="Kerry_geo" formatted="false">geo:0,0?q=Kerry+Park+211+W+Highland+Dr+Seattle%2C+WA+98119</string>
+
+    <string name="Chihuly_name">Chihuly Garden and Glass</string>
+    <string name="Chihuly_address">305 Harrison St, Seattle, WA 98109</string>
+    <string name="Chihuly_phone">(206) 753-4940</string>
+    <string name="Chihuly_geo" formatted="false">geo:0,0?q=Chihuly+Garden+and+Glass+305+Harrison+St+Seattle%2C+WA+98109</string>
+
+
+    <!-- TODO delete -->
+    <string name="hello_blank_fragment">Hello</string>
+</resources>

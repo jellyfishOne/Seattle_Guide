@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1C8B85</color>
+    <color name="colorPrimaryDark">#1C8B85</color>
+    <color name="colorAccent">#4ea701</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="hiking_green">#8BC34A</color>
+    <color name="beer_amber">#FFC107</color>
+    <color name="touristy_teal">#009688</color>
+    <color name="food_orange">#FF5722</color>
+
+</resources>
